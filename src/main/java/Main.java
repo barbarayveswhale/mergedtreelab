@@ -2,7 +2,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class Main {
-    private static final String APP_NAME = "BatchRunner_2ba903";
+    private static final String APP_NAME = "BatchRunner_7d6094";
     private static final String VERSION = "1.2.0";
 
     private String name;
